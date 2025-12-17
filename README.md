@@ -151,11 +151,11 @@ pytest tests/
 ## Screenshots
 
 ### Add / Update Expenses
-    add_update.png
+    ![Add / Update Expenses](add_update.png)
 ### Analytics by Category
-    analytics_by_category.png
+    ![Analytics by Category](analytics_by_category.png)
 ### Analytics by Month
-    analytics_by_month.png
+    ![Analytics by Month](analytics_by_month.png)
 
 
 
